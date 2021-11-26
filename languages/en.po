@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MYWP Gallery\n"
+"POT-Creation-Date: 2021-11-26 16:19+0530\n"
+"PO-Revision-Date: 2021-11-26 16:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: MYWP Team\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: app/views/admin/gallery-edit.php:10 app/views/admin/gallery-list.php:3
+#: app/views/admin/gallery-new.php:10
+msgid "WP GALLERY"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:14
+msgid "Gallery"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:17 app/views/admin/gallery-list.php:29
+msgid "Preview"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:18
+msgid "Publish"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:35
+msgid "Add Image"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:70 app/views/admin/gallery-edit.php:133
+#: app/views/admin/gallery-list.php:13 app/views/admin/gallery-list.php:38
+#: app/views/admin/gallery-new.php:17
+msgid "Title"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:75
+msgid "Hide Image Title"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:91
+msgid "Hide Image Description"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:128
+msgid "Image"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:138
+msgid "Description"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:222
+msgid "Image settings updated successfully"
+msgstr ""
+
+#: app/views/admin/gallery-edit.php:257
+msgid "Gallery settings updated successfully"
+msgstr ""
+
+#: app/views/admin/gallery-list.php:14 app/views/admin/gallery-list.php:39
+msgid "Shortcode"
+msgstr ""
+
+#: app/views/admin/gallery-list.php:15 app/views/admin/gallery-list.php:40
+msgid "Created"
+msgstr ""
+
+#: app/views/admin/gallery-list.php:16 app/views/admin/gallery-list.php:41
+msgid "Action"
+msgstr ""
+
+#: app/views/admin/gallery-list.php:27
+msgid "Edit"
+msgstr ""
+
+#: app/views/admin/gallery-list.php:28
+msgid "Delete"
+msgstr ""
+
+#: app/views/admin/gallery-list.php:46 app/views/admin/gallery-list.php:47
+msgid "Add Gallery"
+msgstr ""
+
+#: app/views/admin/gallery-new.php:14
+msgid "New Gallery"
+msgstr ""
+
+#: app/views/admin/gallery-new.php:20
+msgid "Cancel"
+msgstr ""
+
+#: app/views/admin/gallery-new.php:20
+msgid "Next"
+msgstr ""

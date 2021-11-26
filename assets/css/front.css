@@ -1,0 +1,50 @@
+
+.mywpg-gallery-list{
+    position: relative;
+    display: flex;
+    width: 100%;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.mywpg-gallery-item{
+    width: 23%;
+    margin-bottom: 15px;
+    position: relative;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.mywpg-gallery-item img{
+    width: 100%;
+    display: block;
+}
+
+.mywpg-item-inner{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    color: white !important;
+    vertical-align: middle;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+    display: flex;
+    opacity: 0;
+    transition: .25s;
+}
+
+.mywpg-gallery-item:hover .mywpg-item-inner{
+    transition: .25s;
+    opacity: 1;
+}
+
+.mywpg-item-inner h5, .mywpg-item-inner p{
+    color: #fff;
+    width: 100%;
+}

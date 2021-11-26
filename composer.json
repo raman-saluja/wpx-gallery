@@ -1,0 +1,16 @@
+{
+    "name": "raman/my-wp-gallery",
+    "description": "Simple Gallery Plugin for WordPress",
+    "authors": [
+        {
+            "name": "Ramantech",
+            "email": "ramansaluja849@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MYWPG\\": "app/"
+        }
+    },
+    "require": {}
+}
